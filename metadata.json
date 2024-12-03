@@ -2,12 +2,12 @@
   "name": "COINVELA",
   "symbol": "COINVELA",
   "description": "COINVELA is a token based on SOLANA. It's been created by CONVELA.",
-  "image": "https://raw.githubusercontent.com/LinusGeffarth/coinvela/8676ce290272446d81cc3b2c1a78dbe76e38f655/coinvela.png",
+  "image": "https://raw.githubusercontent.com/LinusGeffarth/coinvela/refs/heads/main/coinvela.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/LinusGeffarth/coinvela/8676ce290272446d81cc3b2c1a78dbe76e38f655/coinvela.png",
+        "uri": "https://raw.githubusercontent.com/LinusGeffarth/coinvela/refs/heads/main/coinvela.png",
         "type": "image/png"
       }
     ]
